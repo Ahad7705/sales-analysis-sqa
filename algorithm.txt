@@ -1,0 +1,10 @@
+Algorithm: Sales Analysis
+
+Start
+Input sales data
+For each product:
+    If sales quantity > threshold:
+        Mark product as best seller
+    Else:
+        Mark product as normal
+End
